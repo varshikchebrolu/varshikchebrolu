@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varshik Chebrolu</h1>
 <h3 align="center">A Software Developer with experience in developing modern web applications.</h3>
 
-- 🌱 I’m currently learning **Springboot, Docker, Kubernetes**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 💬 Ask me about **React, Javascript, Java**
 
